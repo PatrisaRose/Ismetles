@@ -1,0 +1,1 @@
+export const ListaAdat = ["tanulás", "nem megbukás", "zene hallgatás"];
